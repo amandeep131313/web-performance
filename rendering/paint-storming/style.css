@@ -7,4 +7,5 @@
 
 .move {
   transform: translateX(500px);
+  will-change: transform;
 }
